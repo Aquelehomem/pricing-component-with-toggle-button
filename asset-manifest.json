@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pricing-component-with-toggle-button/static/css/main.469f0a51.chunk.css",
+    "main.js": "/pricing-component-with-toggle-button/static/js/main.4a46a684.chunk.js",
+    "main.js.map": "/pricing-component-with-toggle-button/static/js/main.4a46a684.chunk.js.map",
+    "runtime-main.js": "/pricing-component-with-toggle-button/static/js/runtime-main.97d8ebc9.js",
+    "runtime-main.js.map": "/pricing-component-with-toggle-button/static/js/runtime-main.97d8ebc9.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/pricing-component-with-toggle-button/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9430a901.chunk.js": "/pricing-component-with-toggle-button/static/js/2.9430a901.chunk.js",
+    "static/js/2.9430a901.chunk.js.map": "/pricing-component-with-toggle-button/static/js/2.9430a901.chunk.js.map",
+    "index.html": "/pricing-component-with-toggle-button/index.html",
+    "precache-manifest.8b8817b842dc0dc4ee96758c63de5f45.js": "/pricing-component-with-toggle-button/precache-manifest.8b8817b842dc0dc4ee96758c63de5f45.js",
+    "service-worker.js": "/pricing-component-with-toggle-button/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/pricing-component-with-toggle-button/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.469f0a51.chunk.css.map": "/pricing-component-with-toggle-button/static/css/main.469f0a51.chunk.css.map",
+    "static/js/2.9430a901.chunk.js.LICENSE.txt": "/pricing-component-with-toggle-button/static/js/2.9430a901.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97d8ebc9.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9430a901.chunk.js",
+    "static/css/main.469f0a51.chunk.css",
+    "static/js/main.4a46a684.chunk.js"
+  ]
+}
